@@ -1,10 +1,9 @@
-
 Title: Physics for NEET: Most Scoring Chapters and How to Practise Them
 Date: 2026-11-17
 Category: NEET
 Tags: NEET, Physics, NEET-2027, study-strategy, PYQ, MCQ-practice
 Slug: physics-for-neet-most-scoring-chapters-and-how-to-practise-them
-
+status: Published
 Physics is 45 questions and 180 marks of NEET, and it is where most students lose their rank. Biology rewards reading, but Physics rewards practice. You can't memorise your way through it. Here are the 12 chapters that give the best return on your time, and how to practise each one. No fluff.
 
 *A note before you start: chapter weightage shifts a little every year. These picks come from long-running question trends, not a guarantee. Always cross-check with the latest NMC/NTA syllabus.*
